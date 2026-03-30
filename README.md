@@ -21,4 +21,6 @@ The goal of this dashboard is to provide a single, interactive platform that tra
 Operational Efficiency:
 
 Identifies peak ride times and booking trends to optimize driver allocation. Revenue Optimization: Highlights top-performing payment methods and vehicle categories driving revenue. Cancellation Reduction: Reveals key reasons for ride cancellations (both driver and customer side), helping improve service reliability. Customer Experience Improvement: Tracks ratings to pinpoint service quality issues across vehicle types. Strategic Decision-Making: Enables leadership to take targeted actions based on real-time insights rather than assumptions.
-![dashhboard review](
+![dashhboard review](https://github.com/mukeshkumar865083-coder/OLA-DATA-VISIUALIZATION/blob/main/Screenshot%202026-03-30%20114036.png)
+
+
